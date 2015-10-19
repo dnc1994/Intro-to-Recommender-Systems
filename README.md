@@ -1,4 +1,4 @@
-# RWDD-Assignments
+# Intro-to-Recommender-Systems
 Repo for Introduction to Recommender Systems course offered by University of Minnesota on Coursera
 
 ## Author
